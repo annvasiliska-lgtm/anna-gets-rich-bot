@@ -9,6 +9,8 @@
   <string>local.anna.gets-rich-bot</string>
   <key>CFBundleName</key>
   <string>Anna Gets Rich Bot</string>
+  <key>CFBundleIconFile</key>
+  <string>AppIcon.png</string>
   <key>CFBundlePackageType</key>
   <string>APPL</string>
   <key>CFBundleVersion</key>
