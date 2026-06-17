@@ -1,0 +1,2 @@
+#!/bin/zsh
+open -a Terminal /Users/annvasiliska/Documents/gconf/expense-telegram-bot/start_bot.command

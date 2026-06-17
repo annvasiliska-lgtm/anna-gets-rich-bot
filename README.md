@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python bot.py
 ```
 
-На Mac можно запускать бота двойным кликом по файлу `start.command`.
+На Mac можно запускать бота двойным кликом по файлу `start.command` или через приложение `Anna Gets Rich Bot.app`.
 
 ## Формат расходов
 
